@@ -1,6 +1,6 @@
 
 
-with open('input/day1.txt') as file:
+with open('../input/day1/day1.txt') as file:
 
     totalAmountList = []
     total = 0
